@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CalculadoraApp</string>
+    <string name="txt_Num1">Numero 1</string>
+    <string name="txt_Num2">Numero 2</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="cmb_tipo_calculadora">Tipo de Calculadora</string>
+    <string name="txt_sumar">Sumar</string>
+    <string name="txt_restar">Restar</string>
+    <string name="txt_factorial">Factorial</string>
+    <string name="txt_limpiar">Limpiar</string>
+    <string name="txt_multiplicar">Multiplicar</string>
+    <string name="txt_dividir">Dividir</string>
+    <string-array name="opciones">
+        <item >Calculadora Normal</item>
+        <item >Calculadora Cientifica</item>
+    </string-array>
+</resources>
